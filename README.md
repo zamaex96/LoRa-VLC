@@ -65,6 +65,23 @@ This project implements a diversity gain engine for an embedded system using STM
 
 1. **USE_FULL_ASSERT**:
    - Provides assertion handling for debugging purposes.
+     
+### Components used
+1. **Stm32**:
+   - STM32 Nucleo-32 development board with STM32L432KC MCU.
+   - [Link](https://www.st.com/en/evaluation-tools/nucleo-l432kc.html)
+
+2. **LoRa Module**:
+   - Ra-02 LoRa module with SX1278 chip.
+   - [link](https://www.amazon.com/433MHZ-Wireless-Spectrum-Transmission-Antenna/dp/B0CJ83G9ZQ)
+  
+### Supplementary link for help
+1. **Github-LoRa**:
+   - Ra-02 LoRa module (SX1278) library for STM32 (ARM processors) using HAL drivers. 
+   - [Link](https://github.com/SMotlaq/LoRa)
+2. **Github-VLC**:
+   - Diversity-Gain-VLC
+   - [link](https://github.com/zamaex96/Diversity-Gain-VLC)
 
 ## Summary
 
