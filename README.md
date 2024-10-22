@@ -86,3 +86,10 @@ This project implements a diversity gain engine for an embedded system using STM
 ## Summary
 
 This code provides a complete implementation of a diversity gain engine for an embedded system using STM32 microcontrollers. It includes the initialization and configuration of several peripherals such as ADC, UART, SPI, and LoRa modules. The diversity gain engine algorithm implements three combining techniques (EGC, MLC, SC) and continuously processes and transmits sensor data. Each function can be customized based on specific requirements or hardware specifications.
+
+<div align="center">
+  <a href="https://maazsalman.org/">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+  </a>
+  <p> Explore More! 🚀</p>
+</div>
